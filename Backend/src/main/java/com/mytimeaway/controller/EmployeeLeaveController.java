@@ -17,6 +17,5 @@ public class EmployeeLeaveController {
 	private EmployeeLeaveService leaveService;
 
 	@Autowired
-    private JavaMailSender javaMailSender;
-
+	private JavaMailSender javaMailSender;
 }
